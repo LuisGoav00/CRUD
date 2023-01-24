@@ -1,0 +1,146 @@
+[
+  {
+    "PassangerId": 1,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Freddy Ochoa",
+    "Sex": "male",
+    "Age": 25
+  },
+  {
+    "PassangerId": 3,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Heikkinen, Miss. Laina",
+    "Sex": "female",
+    "Age": 26
+  },
+  {
+    "PassangerId": 4,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Futrelle, Mrs. Jacques Heath (Lily May Peel)",
+    "Sex": "female",
+    "Age": 35
+  },
+  {
+    "PassangerId": 6,
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Ariana Pobl",
+    "Sex": "female",
+    "Age": 20
+  },
+  {
+    "PassangerId": 7,
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Doña Petra G",
+    "Sex": "female",
+    "Age": 56
+  },
+  {
+    "PassangerId": 8,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Palsson, Master. Gosta Leonard",
+    "Sex": "male",
+    "Age": 2
+  },
+  {
+    "PassangerId": 9,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",
+    "Sex": "female",
+    "Age": 27
+  },
+  {
+    "PassangerId": 11,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Pedro Castro",
+    "Sex": "male",
+    "Age": 20
+  },
+  {
+    "PassangerId": 12,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Pepe malo",
+    "Sex": "male",
+    "Age": 15
+  },
+  {
+    "PassangerId": 13,
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Arturo G",
+    "Sex": "male",
+    "Age": 56
+  },
+  {
+    "PassangerId": 15,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Juan Gonzalez",
+    "Sex": "male",
+    "Age": 21
+  },
+  {
+    "PassangerId": 18,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Williams, Mr. Charles Eugene",
+    "Sex": "male",
+    "Age": 5
+  },
+  {
+    "PassangerId": 19,
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Don Raul G",
+    "Sex": "male",
+    "Age": 50
+  },
+  {
+    "PassangerId": 22,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Beesley, Mr. Lawrence",
+    "Sex": "male",
+    "Age": 34
+  },
+  {
+    "PassangerId": 24,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Sloper, Mr. William Thompson",
+    "Sex": "male",
+    "Age": 28
+  },
+  {
+    "PassangerId": 27,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Juana Perez",
+    "Sex": "female",
+    "Age": 34
+  },
+  {
+    "PassangerId": 26,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Maria F",
+    "Sex": "female",
+    "Age": 30
+  },
+  {
+    "PassangerId": 28,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "C Roberto",
+    "Sex": "male",
+    "Age": 23
+  }
+]
