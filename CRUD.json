@@ -1,0 +1,210 @@
+[
+  {
+    "PassangerId": 2,
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Guadalupe Fdez",
+    "Sex": "female",
+    "Age": 26
+  },
+  {
+    "PassangerId": 3,
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "German Garmendia",
+    "Sex": "male",
+    "Age": 23
+  },
+  {
+    "PassangerId": 4,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Futrelle, Mrs. Jacques Heath (Lily May Peel)",
+    "Sex": "female",
+    "Age": 35
+  },
+  {
+    "PassangerId": 5,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Allen, Mr. William Henry",
+    "Sex": "male",
+    "Age": 35
+  },
+  {
+    "PassangerId": 7,
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Doña Petra G",
+    "Sex": "female",
+    "Age": 56
+  },
+  {
+    "PassangerId": 9,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",
+    "Sex": "female",
+    "Age": 27
+  },
+  {
+    "PassangerId": 10,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Nasser, Mrs. Nicholas (Adele Achem)",
+    "Sex": "female",
+    "Age": 14
+  },
+  {
+    "PassangerId": 12,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Julian Alvarez",
+    "Sex": "male",
+    "Age": 34
+  },
+  {
+    "PassangerId": 14,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Andersson, Mr. Anders Johan",
+    "Sex": "male",
+    "Age": 39
+  },
+  {
+    "PassangerId": 15,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Luis Gonzalez",
+    "Sex": "male",
+    "Age": 21
+  },
+  {
+    "PassangerId": 16,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Pedro German",
+    "Sex": "male",
+    "Age": 23
+  },
+  {
+    "PassangerId": 17,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Antonio Almeida",
+    "Sex": "male",
+    "Age": 34
+  },
+  {
+    "PassangerId": 18,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Williams, Mr. Charles Eugene",
+    "Sex": "male",
+    "Age": 5
+  },
+  {
+    "PassangerId": 19,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",
+    "Sex": "female",
+    "Age": 31
+  },
+  {
+    "PassangerId": 20,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Masselmani, Mrs. Fatima",
+    "Sex": "female",
+    "Age": 5
+  },
+  {
+    "PassangerId": 21,
+    "Survived": 0,
+    "Pclass": 2,
+    "Name": "Fynney, Mr. Joseph J",
+    "Sex": "male",
+    "Age": 35
+  },
+  {
+    "PassangerId": 22,
+    "Survived": 1,
+    "Pclass": 2,
+    "Name": "Beesley, Mr. Lawrence",
+    "Sex": "male",
+    "Age": 34
+  },
+  {
+    "PassangerId": 23,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "McGowan, Miss. Anna (Annie)",
+    "Sex": "female",
+    "Age": 15
+  },
+  {
+    "PassangerId": 24,
+    "Survived": 1,
+    "Pclass": 1,
+    "Name": "Sloper, Mr. William Thompson",
+    "Sex": "male",
+    "Age": 28
+  },
+  {
+    "PassangerId": 25,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Palsson, Miss. Torborg Danira",
+    "Sex": "female",
+    "Age": 8
+  },
+  {
+    "PassangerId": 27,
+    "Survived": 0,
+    "Pclass": 1,
+    "Name": "Petra Hernandez",
+    "Sex": "female",
+    "Age": 50
+  },
+  {
+    "PassangerId": 28,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Angelica Q",
+    "Sex": "female",
+    "Age": 20
+  },
+  {
+    "PassangerId": 29,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "C Roberto",
+    "Sex": "male",
+    "Age": 22
+  },
+  {
+    "PassangerId": 31,
+    "Survived": 0,
+    "Pclass": 3,
+    "Name": "Crispin Cruz",
+    "Sex": "male",
+    "Age": 55
+  },
+  {
+    "PassangerId": 32,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Wilson Gonzalez",
+    "Sex": "male",
+    "Age": 14
+  },
+  {
+    "PassangerId": 33,
+    "Survived": 1,
+    "Pclass": 3,
+    "Name": "Jack Gonzalez",
+    "Sex": "male",
+    "Age": 1
+  }
+]
